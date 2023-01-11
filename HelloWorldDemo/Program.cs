@@ -13,6 +13,7 @@ namespace HelloWorldDemo
             Console.WriteLine("Welcome to HelloWorld");
             Console.WriteLine("Making changes in Main Branch");
             Console.WriteLine("Adding changes in Remote changes");
+            Console.WriteLine("Adding conflict from local changes");
             Console.ReadLine();
         }
     }
