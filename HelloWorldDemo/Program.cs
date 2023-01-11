@@ -12,6 +12,7 @@ namespace HelloWorldDemo
         {
             Console.WriteLine("Welcome to HelloWorld");
             Console.WriteLine("Making changes in Main Branch");
+            console.WriteLine("Creating conflict from local changes")
             Console.ReadLine();
         }
     }
